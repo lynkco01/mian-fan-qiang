@@ -36,7 +36,7 @@
 ### Shuttle 班机
 * 专业的V2ray翻墙机场
 * BGP接入和IPLC专线
-* 双线路负载永不失联
+* 双线路负载永不失联  
 [免翻墙访问](https://vnp.one/ms4e)
 
 ### SP-SS
