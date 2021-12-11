@@ -2,9 +2,9 @@
 
 ## 免翻墙地址
 ### GaCloud 全球加速
- +稳定翻墙首选SS机场
- +中国多ISP BGP 专线加速网络
- +支持解锁 Netflix、HBO、TVB
+ *稳定翻墙首选SS机场
+ *中国多ISP BGP 专线加速网络
+ *支持解锁 Netflix、HBO、TVB
  [免翻墙访问](https://vnp.one/211c)
 
 ###Flyint 飞数
