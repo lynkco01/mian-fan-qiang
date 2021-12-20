@@ -15,6 +15,12 @@
 * 专属客户端支持  
  [免翻墙访问](https://vnp.one/21wp)
 
+### Boom Cloud
+ * 2015年成立的老机场
+ * 海外团队运营
+ * SS/V2ray 翻墙协议  
+ [免翻墙访问](https://vnp.one/qk1r)
+
 ### Flyint 飞数
 * 全中转SS隧道机场
 * IPLC游戏专线节点
@@ -26,12 +32,6 @@
 * IEPL专线不过墙
 * 定制翻墙客户端  
 [免翻墙访问](https://vnp.one/zd31)
-
-### 云速
-* 海外华人团队
-* V2ray中转机场
-* 支持加密货币支付    
- [免翻墙访问](https://vnp.one/qpst)
 
 ### Shuttle 班机
 * 专业的V2ray翻墙机场
@@ -106,7 +106,7 @@
 [免翻墙访问](https://vnp.one/hxzw)
 
 ## 不提供免翻墙地址的机场
-以下翻墙机场禁止中国大陆IP访问，需要翻墙后才能顺利访问。
+以下翻墙机场部分禁止中国大陆IP访问，或没有免翻墙地址，但服务质量也不错，值得尝试。
 
 ### 泡芙云
 * 美国公司运营
@@ -114,8 +114,14 @@
 * IEPL专线服务  
 [官网](https://vnp.one/nx4o)
 
-### Boom Cloud
-* 2015年成立的老机场
-* 海外团队运营
-* SS/V2ray 翻墙协议  
-[官网](https://vnp.one/qk1r)
+### Just My Socks
+* 搬瓦工官方机场
+* V2ray中转机场
+* 提供IPLC专线节点   
+ [官网](https://vnp.one/qpst)
+
+### 云翼网络
+* IEPL专线机场
+* SS、V2ray多种协议
+* 提供团队套餐  
+[官网](https://vnp.one/45yt)
