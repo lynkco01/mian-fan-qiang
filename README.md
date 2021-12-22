@@ -7,6 +7,7 @@
  * 稳定翻墙首选SS机场
  * 中国多ISP BGP 专线加速网络
  * 支持解锁 Netflix、HBO、TVB  
+ * 圣诞活动8折优惠 截止月底  
   [免翻墙访问](https://vnp.one/211c)
 
 ### Vila VPN
@@ -23,7 +24,7 @@
 
 ### GLaDOS
 * 技术流翻墙机场
-* V2ray/Trojan/WireGuard 
+* V2ray/Trojan/WireGuard
 * Switch/PS/Xbox 游戏加速  
 [免翻墙访问](https://vnp.one/ebrh)
 
