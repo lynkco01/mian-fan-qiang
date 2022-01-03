@@ -7,7 +7,7 @@
  * 稳定翻墙首选SS机场
  * 中国多ISP BGP 专线加速网络
  * 支持解锁 Netflix、HBO、TVB  
- * 圣诞活动8折优惠 截止月底  
+ * 新年活动8折优惠     
   [免翻墙访问](https://vnp.one/211c)
 
 ### Vila VPN
@@ -106,11 +106,29 @@
 * 免费提供小火箭账号  
 [免翻墙访问](https://vnp.one/4sdq)
 
-### ImmTelecom
-* 腾讯AIA接入
-* 稳定性不错
-* 价格比较贵  
-[免翻墙访问](https://vnp.one/hxzw)
+### EXFULX
+* IEPL专线
+* 支持游戏加速
+* 稳定SS翻墙机场
+[免翻墙访问](https://vnp.one/ucwn)
+
+### Project Si
+* BGP中转翻墙机场
+* 解锁 Tiktok
+* 专属 Emby服务器  
+[免翻墙访问](https://vnp.one/1dru)
+
+### Bitz Net
+* 英国公司运营
+* Trojan翻墙协议
+* Stripe 平台更可靠  
+[免翻墙访问](https://vnp.one/325i)
+
+### 一枝红杏
+* 直连翻墙机场
+* 老牌Trojan翻墙机场
+* 价格便宜    
+[免翻墙访问](https://vnp.one/f2fl)
 
 ## 不提供免翻墙地址的机场
 以下翻墙机场部分禁止中国大陆IP访问，或没有免翻墙地址，但服务质量也不错，值得尝试。
@@ -118,7 +136,8 @@
 ### 泡芙云
 * 美国公司运营
 * 老牌翻墙机场
-* IEPL专线服务  
+* IEPL专线服务
+* 新年优惠码：NY20  
 [官网](https://vnp.one/nx4o)
 
 ### Just My Socks
