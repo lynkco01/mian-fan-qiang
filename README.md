@@ -124,6 +124,12 @@
 * Stripe 平台更可靠  
 [免翻墙访问](https://vnp.one/325i)
 
+### Boslife
+* 老牌翻墙机场
+* Trojan翻墙协议
+* 海外公司运营  
+[免翻墙访问](https://vnp.one/6neh)
+
 ### 一枝红杏
 * 直连翻墙机场
 * 老牌Trojan翻墙机场
