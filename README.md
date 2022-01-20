@@ -1,6 +1,7 @@
 # 机场免翻墙地址
 2022 好用的翻墙 SS/V2ray/Trojan 机场地址收集。  
 适合还没有翻出墙的同学，已经成功翻墙出海的也可收藏以备不时之需。
+页末附上了各平台Clash软件安装地址，可自助获取。
 
 ## 免翻墙地址
 ### GaCloud 全球加速
@@ -157,3 +158,15 @@
 * SS、V2ray多种协议
 * 提供团队套餐  
 [官网](https://vnp.one/45yt)
+
+## 翻墙软件下载地址
+各平台翻墙软件安装地址，方便快速获取。  
+### Windows
+ Clash [Github](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+ Clash [网盘1](https://pan.franxx.cloud/s/8Mfe?path=%2Fwindows%2FClash%20for%20Windows)  
+### macOS
+ Clash [Github](https://github.com/yichengchen/clashX/releases)
+ Clash [网盘1](https://pan.franxx.cloud/s/8Mfe?path=%2Fmacos%2FClashX)
+### 安卓
+ Clash [Github](https://github.com/Kr328/ClashForAndroid/releases)
+ Clash [网盘1](https://pan.franxx.cloud/s/8Mfe?path=%2F%E5%AE%89%E5%8D%93%2FClash%20for%20Android)
