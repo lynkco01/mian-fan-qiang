@@ -143,8 +143,7 @@
 ### 泡芙云
 * 美国公司运营
 * 老牌翻墙机场
-* IEPL专线服务
-* 新年优惠码：NY20  
+* IEPL专线服务   
 [官网](https://vnp.one/nx4o)
 
 ### Just My Socks
