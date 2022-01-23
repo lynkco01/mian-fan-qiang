@@ -170,3 +170,7 @@
 ### 安卓
  Clash [Github](https://github.com/Kr328/ClashForAndroid/releases)
  Clash [网盘1](https://pan.franxx.cloud/s/8Mfe?path=%2F%E5%AE%89%E5%8D%93%2FClash%20for%20Android)
+### iOS
+ [海外 Apple ID](https://vnp.one/8qq5)  
+ [Shadowrocket 兑换码](https://vnp.one/px8a)  
+ [包含 Shadowrocket 成品ID](https://vnp.one/p1b9)
