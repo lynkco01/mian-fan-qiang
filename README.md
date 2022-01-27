@@ -125,6 +125,12 @@
 * Stripe 平台更可靠  
 [免翻墙访问](https://vnp.one/325i)
 
+### prprCloud
+* 中转和内网专线
+* Shadowsocks 协议
+* 支持加密货币付款方式  
+[免翻墙访问](https://vnp.one/t2f8)
+
 ### Boslife
 * 老牌翻墙机场
 * Trojan翻墙协议
