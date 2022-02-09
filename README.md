@@ -131,6 +131,12 @@
 * 支持加密货币付款方式  
 [免翻墙访问](https://vnp.one/t2f8)
 
+### Texon
+* 专线加速
+* Shadowsocks 协议
+* 精品线路稳定可靠  
+[免翻墙访问](https://vnp.one/mgf6)
+
 ### Boslife
 * 老牌翻墙机场
 * Trojan翻墙协议
