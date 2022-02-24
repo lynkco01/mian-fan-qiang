@@ -35,6 +35,12 @@
 * 专属客户端支持  
  [免翻墙访问](https://vnp.one/z8z1)
 
+### Ayanami Cloud
+* BGP中转机场
+* Shadowsocks 翻墙协议
+* 一键翻墙客户端  
+[免翻墙访问](https://vnp.one/8g4r)
+
 ### 萌喵加速
 * 老牌翻墙V2ray机场
 * IEPL专线不过墙
