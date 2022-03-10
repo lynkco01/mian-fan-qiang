@@ -19,7 +19,7 @@
 
 ### GLaDOS
 * 技术流翻墙机场
-* V2ray/Trojan/WireGuard
+* V2ray/Trojan/Wire Guard VPN
 * Switch/PS/Xbox 游戏加速  
 [免翻墙访问](https://vnp.one/ebrh)
 
@@ -53,23 +53,7 @@
 * 定制翻墙客户端  
 [免翻墙访问](https://vnp.one/zd31)
 
-### Shuttle 班机
-* 专业的V2ray翻墙机场
-* BGP接入和IPLC专线
-* 双线路负载永不失联  
-[免翻墙访问](https://vnp.one/ms4e)
 
-### SP-SS
-* 自研翻墙SS隧道
-* 提供小火箭账号
-* 公益节点可白嫖  
-[免翻墙访问](https://vnp.one/lvcm)
-
-### 巨浪云
-* 便宜翻墙SS机场
-* 月付最低5元
-* 95折优惠码：julang  
-[免翻墙访问](https://vnp.one/a4k0)
 
 ### 白月光
 * V2ray翻墙机场
@@ -89,11 +73,6 @@
 * 稳定服役三年以上  
 [免翻墙访问](https://vnp.one/atnq)
 
-### TAG
-* 2018年成立
-* 香港机场服务商
-* Anycast 机场  
-[免翻墙访问](https://vnp.one/5vit)
 
 ### 速蛙云
 * 技术流翻墙机场
@@ -118,6 +97,14 @@
 * 国内BGP接入
 * 免费提供小火箭账号  
 [免翻墙访问](https://vnp.one/4sdq)
+
+
+### SP-SS
+* 自研翻墙SS隧道
+* 提供小火箭账号
+* 公益节点可白嫖  
+[免翻墙访问](https://vnp.one/lvcm)
+
 
 ### EXFULX
 * IEPL专线
@@ -149,6 +136,12 @@
 * 精品线路稳定可靠  
 [免翻墙访问](https://vnp.one/mgf6)
 
+### TAG
+* 2018年成立
+* 香港机场服务商
+* Anycast 机场  
+[免翻墙访问](https://vnp.one/5vit)
+
 ### Boslife
 * 老牌翻墙机场
 * Trojan翻墙协议
@@ -162,13 +155,31 @@
 [免翻墙访问](https://vnp.one/f2fl)
 
 ## 不提供免翻墙地址的机场
-以下翻墙机场部分禁止中国大陆IP访问，或没有免翻墙地址，但服务质量也不错，值得尝试。
+以下翻墙机场部分禁止中国大陆IP访问，或官网被墙无免翻墙地址，但服务质量也不错，值得尝试。
 
 ### 泡芙云
 * 美国公司运营
 * 老牌翻墙机场
 * IEPL专线服务   
 [官网](https://vnp.one/nx4o)
+
+### 巨浪云
+* 便宜翻墙SS机场
+* 月付最低5元
+* 95折优惠码：julang  
+[官网](https://vnp.one/a4k0)
+
+### Shuttle 班机
+* 专业的V2ray翻墙机场
+* BGP接入和IPLC专线
+* 双线路负载永不失联  
+[免翻墙访问](https://vnp.one/ms4e)
+
+### 忍者云
+* IEPL专线机场
+* Shadowsocks 翻墙梯子
+* 免费提供小火箭账号  
+[官网](https://vnp.one/3rja)
 
 ### Just My Socks
 * 搬瓦工官方机场
