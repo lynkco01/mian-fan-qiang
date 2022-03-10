@@ -137,9 +137,9 @@
 [免翻墙访问](https://vnp.one/mgf6)
 
 ### TAG
-* 2018年成立
+* Shadowsocks 翻墙协议
 * 香港机场服务商
-* Anycast 机场  
+* 中转和内网专线  
 [免翻墙访问](https://vnp.one/5vit)
 
 ### Boslife
