@@ -122,7 +122,7 @@
 ### Texon
 * 专线加速
 * Shadowsocks 协议
-* 精品线路稳定可靠  
+* 解锁 Tiktok    
 [免翻墙访问](https://vnp.one/mgf6)
 
 ### TAG
