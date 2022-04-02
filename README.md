@@ -107,12 +107,6 @@
 * 稳定SS翻墙机场  
 [免翻墙访问](https://vnp.one/ucwn)
 
-### Project Si
-* BGP中转翻墙机场
-* 解锁 Tiktok
-* 专属 Emby服务器  
-[免翻墙访问](https://vnp.one/1dru)
-
 ### Bitz Net
 * 英国公司运营
 * Trojan翻墙协议
