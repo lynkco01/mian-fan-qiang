@@ -53,6 +53,12 @@
 * 定制翻墙客户端  
 [免翻墙访问](https://vnp.one/zd31)
 
+### MoNaiYun
+* 联通移动中转机场
+* Trojan翻墙机场
+* 海外团队运营  
+[免翻墙访问](https://vnp.one/bb3d)
+
 ### 白月光
 * V2ray翻墙机场
 * 中转多落地负载
@@ -88,6 +94,12 @@
 * V2ray 翻墙机场
 * 定制专属客户端  
 [免翻墙访问](https://vnp.one/trjl)
+
+### 蚯蚓机场
+* 2022年成立翻墙机场
+* Vmess 翻墙协议
+* 解锁 Tiktok  
+[免翻墙访问](https://vnp.one/bjp5)
 
 ### 奶瓶 Nerwo
 * SS/Trojan 翻墙机场
@@ -137,17 +149,18 @@
 * 按量付费 价格便宜  
 [免翻墙访问](https://vnp.one/gyto)
 
+### E-Net
+* Shadowsocks 协议
+* 低调精品小机场
+* 八五折优惠活动进行中  
+[免翻墙访问](https://vnp.one/5hih)
+
 ### Boslife
 * 老牌翻墙机场
 * Trojan翻墙协议
 * 海外公司运营  
 [免翻墙访问](https://vnp.one/6neh)
 
-### 一枝红杏
-* 直连翻墙机场
-* 老牌Trojan翻墙机场
-* 价格便宜    
-[免翻墙访问](https://vnp.one/f2fl)
 
 ## 不提供免翻墙地址的机场
 以下翻墙机场部分禁止中国大陆IP访问，或官网被墙不提供免翻墙地址，但服务质量也不错，值得尝试。
