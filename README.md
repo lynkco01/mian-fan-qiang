@@ -17,12 +17,6 @@
   * SS/V2ray 翻墙协议  
   [免翻墙访问](https://vnp.one/qk1r)
 
-### GLaDOS
-* 技术流翻墙机场
-* V2ray/Trojan/Wire Guard VPN
-* Switch/PS/Xbox 游戏加速  
-[免翻墙访问](https://vnp.one/ebrh)
-
 ### 萌喵加速
 * 老牌翻墙V2ray机场
 * IEPL专线不过墙
@@ -41,6 +35,17 @@
 * 专属客户端支持  
  [免翻墙访问](https://vnp.one/z8z1)
 
+### GLaDOS
+ * 技术流翻墙机场
+ * V2ray/Trojan/Wire Guard VPN
+ * Switch/PS/Xbox 游戏加速  
+ [免翻墙访问](https://vnp.one/ebrh)
+
+### Anyland
+* 国内多线入口
+* Trojan/Shadowsocks 机场
+* 一件翻墙VPN客户端  
+[免翻墙访问](https://vnp.one/dp6i)
 
 ### Ayanami Cloud
 * BGP中转机场
@@ -135,19 +140,13 @@
 
 
 ## 不提供免翻墙地址的机场
-以下翻墙机场部分禁止中国大陆IP访问，或官网被墙不提供免翻墙地址，但服务质量也不错，值得尝试。
+以下翻墙机场部分禁止中国大陆IP访问，或官网被墙不提供免翻墙地址。
 
 ### 泡芙云
 * 美国公司运营
 * 老牌翻墙机场
 * IEPL专线服务   
 [官网](https://vnp.one/nx4o)
-
-### 巨浪云
-* 便宜翻墙SS机场
-* 月付最低5元
-* 95折优惠码：julang  
-[官网](https://vnp.one/a4k0)
 
 ### 忍者云
 * IEPL专线机场
