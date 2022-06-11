@@ -44,20 +44,9 @@
 ### Anyland
 * 国内多线入口
 * Trojan/Shadowsocks 机场
-* 一件翻墙VPN客户端  
+* 一键翻墙VPN客户端  
 [免翻墙访问](https://vnp.one/dp6i)
 
-### Ayanami Cloud
-* BGP中转机场
-* Shadowsocks 翻墙协议
-* 一键翻墙客户端  
-[免翻墙访问](https://vnp.one/8g4r)
-
-### MoNaiYun
-* 联通移动中转机场
-* Trojan翻墙机场
-* 海外团队运营  
-[免翻墙访问](https://vnp.one/bb3d)
 
 ### 白月光
 * V2ray翻墙机场
@@ -65,11 +54,6 @@
 * 2021成立的新机场  
 [免翻墙访问](https://vnp.one/gb0l)
 
-### 翼游国际加速器
-* 老牌翻墙机场
-* 支持 SS/V2ray/Trojan
-* 负载均衡  
-[免翻墙访问](https://vnp.one/5imx)
 
 ### TAG
 * Shadowsocks 翻墙协议
@@ -77,11 +61,18 @@
 * 中转和内网专线  
 [免翻墙访问](https://vnp.one/5vit)
 
+
 ### 好滋味杂货铺
 * 老伙计加速器新站
 * Trojan 翻墙梯子
 * 稳定服役三年以上  
 [免翻墙访问](https://vnp.one/atnq)
+
+### 翼游国际加速器
+* 老牌翻墙机场
+* 支持 SS/V2ray/Trojan
+* 负载均衡  
+[免翻墙访问](https://vnp.one/5imx)
 
 ### 速蛙云
 * 技术流翻墙机场
@@ -131,6 +122,18 @@
 * 低调精品小机场
 * 八五折优惠活动进行中  
 [免翻墙访问](https://vnp.one/5hih)
+
+### Ayanami Cloud
+* BGP中转机场
+* Shadowsocks 翻墙协议
+* 一键翻墙客户端  
+[免翻墙访问](https://vnp.one/8g4r)
+
+### MoNaiYun
+* 联通移动中转机场
+* Trojan翻墙机场
+* 海外团队运营  
+[免翻墙访问](https://vnp.one/bb3d)
 
 ### Boslife
 * 老牌翻墙机场
