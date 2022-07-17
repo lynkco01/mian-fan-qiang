@@ -8,7 +8,7 @@
  * 稳定翻墙首选SS机场
  * 中国多ISP BGP 专线加速网络
  * 支持解锁 Netflix、HBO、TVB  
- * 新年活动8折优惠     
+ * 新用户注册75折    
   [免翻墙访问](https://vnp.one/211c)
 
 ### Boom Cloud
@@ -41,16 +41,16 @@
  * Switch/PS/Xbox 游戏加速  
  [免翻墙访问](https://vnp.one/ebrh)
 
-### FastLink
- * BGP中转/IPLC专线
- * AnyCast 技术加持
- * 提供游戏加速节点  
-  [免翻墙访问](https://vnp.one/ekmg)
+### Realnode
+ * BGP-AGA 和IPLC专线
+ * V2ray 翻墙机场
+ * 定制专属客户端  
+ [免翻墙访问](https://vnp.one/trjl)
 
 ### 白月光
 * V2ray翻墙机场
-* 中转多落地负载
-* 2021成立的新机场  
+* 高级专线加速
+* 定制专属客户端   
 [免翻墙访问](https://vnp.one/gb0l)
 
 ### TAG 机场
@@ -65,17 +65,18 @@
 * 各种网站福利  
 [免翻墙访问](https://vnp.one/22gd)
 
+### FastLink
+ * BGP中转/IPLC专线
+ * AnyCast 技术加持
+ * 提供游戏加速节点  
+  [免翻墙访问](https://vnp.one/ekmg)
+
 ### 好滋味杂货铺
 * 老伙计加速器新站
 * Trojan 翻墙梯子
 * 稳定服役三年以上  
 [免翻墙访问](https://vnp.one/atnq)
 
-### Realnode
-* BGP-AGA 和IPLC专线
-* V2ray 翻墙机场
-* 定制专属客户端  
-[免翻墙访问](https://vnp.one/trjl)
 
 ### 翼游国际加速器
 * 老牌翻墙机场
