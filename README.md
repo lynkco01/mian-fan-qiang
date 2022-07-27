@@ -17,6 +17,12 @@
   * SS/V2ray 翻墙协议  
   [免翻墙访问](https://vnp.one/qk1r)
 
+### Nexitally 奶昔机场
+  * 2017年成立的老牌机场
+  * IEPL专线不过墙
+  * 定制翻墙客户端  
+  [免翻墙访问](https://vnp.one/lcx8)
+
 ### 萌喵加速
 * 老牌翻墙V2ray机场
 * IEPL专线不过墙
