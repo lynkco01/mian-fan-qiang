@@ -18,12 +18,11 @@
   * 定制翻墙客户端  
   [免翻墙访问](https://vnp.one/qk1r)
 
-### Blinkload
-  * 老牌翻墙机场
-  * SS/SSR/V2ray机场
-  * 香港公司运营   
-  * 送 Stash 兑换码  
-  [免翻墙访问](https://vnp.one/h0x2)
+### Besnow 贝雪云
+  * 香港翻墙机场
+  * Trojan 机场
+  * 直连/中转节点  
+  [免翻墙访问](https://vnp.one/g7gj)
 
 ### Nexitally 奶昔机场
   * 2017年成立的老牌机场
