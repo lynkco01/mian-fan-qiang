@@ -4,7 +4,7 @@
 页末附上了各平台Clash软件安装地址，可自助获取。
 
 ## 免翻墙地址
-### GaCloud 全球加速
+### WgetCloud 全球加速
  * 稳定翻墙首选SS机场
  * 中国多ISP BGP 专线加速网络
  * SS/SSR/V2ray/Trojan 协议支持
