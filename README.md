@@ -2,7 +2,7 @@
 2023 好用的翻墙 SS/SSR/V2ray/Trojan 机场地址收集。最流行的翻墙方式，快过任何VPN。  
 适合还没有翻出墙的同学，已经成功翻墙出海的也可收藏以备不时之需。
 页末附上了各平台Clash软件安装地址，可自助获取。  
-  更多：[机场推荐](https://github.com/lynkco01/jichangtuijian)
+  更多：[机场推荐](https://clashsub.com/)
 
 ## 免翻墙地址
 ### WgetCloud 全球加速
