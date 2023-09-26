@@ -6,11 +6,17 @@
 
 ## 免翻墙地址
 ### WgetCloud 全球加速
- * 稳定翻墙首选SS机场
+ * 稳定翻墙首选机场
  * 中国多ISP BGP 专线加速网络
  * Trojan 协议支持
  * 新用户注册8折    
   [免翻墙访问](https://vnp.one/211c)
+### SSRDOG
+  * V2ray 机场
+  * 定制客户端
+  * 免费试用  
+  [免翻墙访问](https://vnp.one/6h0s)
+
 
 ### 橘子云
   * BGP中转/IPLC内网专线
@@ -37,12 +43,16 @@
   * SS 翻墙协议  
   [免翻墙访问](https://vnp.one/t98k)
 
-### SSRDOG
-  * V2ray 机场
-  * 定制客户端
-  * 免费试用  
-  [免翻墙访问](https://vnp.one/6h0s)
-
+### 万城网络
+    * Shadowsocks 机场
+    * IEPL 专线
+    * 免费试用  
+    [免翻墙访问](https://vnp.one/l2no)
+### 悠兔机场
+    * Shadowsocks 机场
+    * 中转隧道
+    * 注册免费试用  
+    [免翻墙访问](https://vnp.one/grcd)
 ### TomatoCloud
   * 老牌翻墙机场
   * 支持 SSR/V2ray/Trojan
@@ -231,17 +241,20 @@
 ## 翻墙软件下载地址
 各平台翻墙软件安装地址，方便快速获取。  
 ### Windows
- Clash [Github](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
- Clash [网盘1](https://pan.franxx.cloud/s/8Mfe?path=%2Fwindows%2FClash%20for%20Windows)  
+ Clash for windows [Github](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+ Clash verge [Github](https://github.com/zzzgydi/clash-verge)  
 ### macOS
  Clash [Github](https://github.com/yichengchen/clashX/releases)
- Clash [网盘1](https://pan.franxx.cloud/s/8Mfe?path=%2Fmacos%2FClashX)
+ CFW for Mac [Github](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
+ Clash verge [Github](https://github.com/zzzgydi/clash-verge)  
 ### 安卓
  Clash [Github](https://github.com/Kr328/ClashForAndroid/releases)
- Clash [网盘1](https://pan.franxx.cloud/s/8Mfe?path=%2F%E5%AE%89%E5%8D%93%2FClash%20for%20Android)
+ Surfboard [网站](https://manual.getsurfboard.com/)
 ### iOS
  [海外 Apple ID](https://vnp.one/8qq5)  
  [Shadowrocket 兑换码](https://vnp.one/px8a)  
  [Shadowrocket 兑换码](https://vnp.one/7p0v)  
  [Stash兑换码](https://vnp.one/7p0v)  
- [包含 Shadowrocket 成品ID](https://vnp.one/p1b9)
+ [包含 Shadowrocket 成品ID](https://vnp.one/p1b9)  
+
+如遇 Github 下载速度慢，请使用机场节点进行加速，或考虑使用 Github 加速网站进行加速。
