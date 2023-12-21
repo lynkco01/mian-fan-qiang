@@ -1,5 +1,5 @@
-# 2023 机场免翻墙地址
-2023 好用的翻墙 SS/SSR/V2ray/Trojan 机场地址收集。最流行的翻墙方式，快过任何VPN。  
+# 2024 机场免翻墙地址
+2024 好用的翻墙机场推荐 | 最新地址收集 |  SS/SSR/V2ray/Trojan/Hysteria 协议支持。最流行的翻墙方式，快过任何VPN。  
 适合还没有翻出墙的同学，已经成功翻墙出海的也可收藏以备不时之需。
 页末附上了各平台Clash软件安装地址，可自助获取。  
   更多：[机场推荐](https://clashsub.com/)
@@ -11,11 +11,6 @@
  * Trojan 协议支持
  * 新用户注册8折    
   [免翻墙访问](https://vnp.one/211c)
-### SSRDOG
-  * V2ray 机场
-  * 定制客户端
-  * 免费试用  
-  [免翻墙访问](https://vnp.one/6h0s)
 
 
 ### 橘子云
@@ -50,14 +45,21 @@
   [免翻墙访问](https://vnp.one/l2no)
 ### 悠兔机场
   * Shadowsocks 机场
-  * 中转隧道
+  * 中转/专线加速
   * 注册免费试用  
   [免翻墙访问](https://vnp.one/grcd)
+
 ### TomatoCloud
   * 老牌翻墙机场
   * 支持 SSR/V2ray/Trojan
   * 海外团队运营  
   [免翻墙访问](https://vnp.one/uh0w)
+
+### 狗狗加速
+  * 专线机场推荐
+  * Hysteria 翻墙协议
+  * 注册免费试用   
+[免翻墙访问](https://vnp.one/9l6p)
 
 ### 奈云机场
   * 中转和内网专线
@@ -73,7 +75,7 @@
 
 ### Anyland
   * 国内多线入口
-  * Trojan/Shadowsocks 机场
+  * V2ray 机场推荐
   * 一键翻墙VPN客户端  
     [免翻墙访问](https://vnp.one/dp6i)
 
@@ -83,6 +85,18 @@
   * SS/Trojan 翻墙协议
   * 定制翻墙客户端  
   [免翻墙访问](https://vnp.one/lcx8)
+
+### 飞机云
+  * BGP中转/IPLC内网专线
+  * SSR/V2ray 翻墙协议
+  * 优惠活动多  
+  [免翻墙访问](https://vnp.one/fzfl)
+
+### SSRDOG
+  * V2ray 机场
+  * 定制客户端
+  * 免费试用  
+  [免翻墙访问](https://vnp.one/6h0s)
 
 ### Kuromis 库洛米
   * IEPL 专线机场
